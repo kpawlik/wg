@@ -1,3 +1,3 @@
-module github.com/kpawlik/wg/v2
+module github.com/kpawlik/wg
 
 go 1.20
